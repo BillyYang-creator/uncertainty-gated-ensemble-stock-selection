@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+
+# Local outputs
+rank_result.csv
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data artifacts (optional)
+# data/raw/
+# data/cache/
